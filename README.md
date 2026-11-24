@@ -1,0 +1,2 @@
+# fristik.planner
+planner
